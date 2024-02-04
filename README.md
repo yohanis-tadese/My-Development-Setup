@@ -2,6 +2,10 @@
 
 I show how to set up VS Code with these themes, extensions and settings in the first section of the course, in lectures **Setting Up Our Code Editor** and **Installing Additional VS Code Extensions**. But for your convenience, here is a quick list of everything you need in order to set up VS Code to follow the course.
 
+### Downlode Vs Code
+
+Downlode vs code using this official channels https://code.visualstudio.com/download
+
 ### Theme
 
 I use the `Halcyon` in all the course development. This is a free theme, similar to my personal favourite Halcyon. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
@@ -33,3 +37,4 @@ I use the `One Monokai` in all the course videos. This is a free theme, similar 
 `Word Wrap` set to `on`, to avoid vertical scrollbars for long content
 
 `Tab Size` set to `2`, for better code readability
+
