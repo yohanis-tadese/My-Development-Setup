@@ -1,4 +1,4 @@
-# VS Code setup used in the development
+### VS Code setup used in the development
 
 I show how to set up VS Code with these themes, extensions and settings in the first section of the course, in lectures **Setting Up Our Code Editor** and **Installing Additional VS Code Extensions**. But for your convenience, here is a quick list of everything you need in order to set up VS Code to follow the course.
 
