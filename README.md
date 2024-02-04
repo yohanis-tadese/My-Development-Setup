@@ -38,7 +38,11 @@ I use the `One Monokai` in all the course videos. This is a free theme, similar 
 
 `Tab Size` set to `2`, for better code readability
 
-# Color setup used in the development
+# Color used in the development
 
 `Color Zilla` With ColorZilla you can get a color reading from any point in your browser. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+# MongoDB used in the development 
+
+`Color Zilla` The community version of our distributed document database provides powerful ways to query and analyze your data.[Link &rarr;](https://www.mongodb.com/try/download/community-kubernetes-operator)
 
