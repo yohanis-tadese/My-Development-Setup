@@ -42,7 +42,17 @@ I use the `One Monokai` in all the course videos. This is a free theme, similar 
 
 `Color Zilla` With ColorZilla you can get a color reading from any point in your browser. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
+# Nodejs used in the development 
+
+`Node Js` Developers use Node. js to create server-side web applications, and it is perfect for data-intensive applications since it uses an asynchronous, event-driven model.[Link &rarr;](https://nodejs.org/en/download)
+
 # MongoDB used in the development 
 
-`Color Zilla` The community version of our distributed document database provides powerful ways to query and analyze your data.[Link &rarr;](https://www.mongodb.com/try/download/community-kubernetes-operator)
+`MongoDB Comunity` The community version of our distributed document database provides powerful ways to query and analyze your data.[Link &rarr;](https://www.mongodb.com/try/download/community-kubernetes-operator)
+
+`MongoDB Shell` MongoDB Shell is an open source (Apache 2.0), standalone product developed separately from the MongoDB Server.[Link &rarr;](https://www.mongodb.com/try/download/shell)
+
+# Postman used in the development 
+
+`Postman` Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster..[Link &rarr;](https://www.postman.com/downloads/)
 
