@@ -1,4 +1,4 @@
-# VS Code setup used in the course
+# VS Code setup used in the development
 
 I show how to set up VS Code with these themes, extensions and settings in the first section of the course, in lectures **Setting Up Our Code Editor** and **Installing Additional VS Code Extensions**. But for your convenience, here is a quick list of everything you need in order to set up VS Code to follow the course.
 
@@ -38,7 +38,7 @@ I use the `One Monokai` in all the course videos. This is a free theme, similar 
 
 `Tab Size` set to `2`, for better code readability
 
-# Color setup used in the course
+# Color setup used in the development
 
 `Color Zilla` With ColorZilla you can get a color reading from any point in your browser. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
