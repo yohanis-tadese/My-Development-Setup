@@ -58,7 +58,7 @@ I use the `One Monokai` in all the course videos. This is a free theme, similar 
 
 # Express used in the development 
 
-`Postman` HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:.[Link &rarr;]([https://www.postman.com/downloads/](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+`HTTP response status codes` HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:.[Link &rarr;]([https://www.postman.com/downloads/](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 
 
