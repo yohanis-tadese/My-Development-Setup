@@ -29,6 +29,8 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 `Live Server` to create a live preview for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
+`React Snnipets`  For React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.  [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
 ### Settings
 
 `Auto Save` set to `onFocusChange`, to automatically save files
