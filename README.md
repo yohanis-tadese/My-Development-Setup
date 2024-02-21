@@ -12,6 +12,9 @@ I use the `Halcyon` in all the course development. This is a free theme, similar
 
 I use the `One Monokai` in all the course videos. This is a free theme, similar to my personal favourite Monokai Pro. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
+The `Material Icons` Plugin is a complementary plugin of the Material Theme whose purpose is to customize all IDE icons. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+
 ### Extensions
 
 `Auto Close Tag` to automatically close HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
