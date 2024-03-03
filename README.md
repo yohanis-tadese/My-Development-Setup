@@ -1,4 +1,4 @@
-# VS Code setup used in the development
+# Integrated Development Environments(VS)
 
 I show how to set up VS Code with these themes, extensions and settings in the first section of the course, in lectures **Setting Up Our Code Editor** and **Installing Additional VS Code Extensions**. But for your convenience, here is a quick list of everything you need in order to set up VS Code to follow the course.
 
@@ -45,35 +45,48 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 `Diff decorations` set to `none`, remove decoration virtical line in vs code.
 
-### Online tool used in the developments
 
-# Color picker used in the development
+# Version Control
+
+`Git` A distributed version control system widely used for tracking changes in source code during development. Platforms like GitHub, GitLab, and Bitbucket provide online repositories for hosting Git projects. [Link &rarr;](https://git-scm.com/downloads)
+
+# Online tool used in the developments
+
+### Color picker used in the development
 
 `Color Zilla` With ColorZilla you can get a color reading from any point in your browser. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-
-
-# Image selector used in the development
+### Image selector used in the development
 
 `Unsplash` Unsplash is a photo discovery platform for free to use, high-definition photos. [Link &rarr;](https://unsplash.com/)
 
-# Nodejs used in the development 
+# Popular technologies used in web development
+
+
+### Nodejs used in the development 
 
 `Node Js` Developers use Node. js to create server-side web applications, and it is perfect for data-intensive applications since it uses an asynchronous, event-driven model.[Link &rarr;](https://nodejs.org/en/download)
 
-# MongoDB used in the development 
+### MongoDB used in the development 
 
 `MongoDB Comunity` The community version of our distributed document database provides powerful ways to query and analyze your data.[Link &rarr;](https://www.mongodb.com/try/download/community-kubernetes-operator)
 
 `MongoDB Shell` MongoDB Shell is an open source (Apache 2.0), standalone product developed separately from the MongoDB Server.[Link &rarr;](https://www.mongodb.com/try/download/shell)
 
-# Postman used in the development 
+### Postman used in the development 
 
 `HTTP response status codes` Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster..[Link &rarr;](https://www.postman.com/downloads/)
 
-# Express used in the development 
+### Express used in the development 
 
 `HTTP response status codes` HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:.[Link &rarr;](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+# AI tool used in the developments
+
+### Opean AI chatGPT
+
+`chatGpt` ChatGPT can produce both useful and unusable code. For best results, provide clear and detailed prompts.. [Link &rarr;](https://chat.openai.com/)
+
 
 
 
