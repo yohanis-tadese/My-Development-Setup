@@ -61,7 +61,7 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 `Unsplash` Unsplash is a photo discovery platform for free to use, high-definition photos. [Link &rarr;](https://unsplash.com/)
 
-------------------------------------------------------------------
+
 
 # Popular technologies used in web development
 
