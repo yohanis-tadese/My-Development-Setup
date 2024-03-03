@@ -46,6 +46,7 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 `Diff decorations` set to `none`, remove decoration virtical line in vs code.
 
 
+
 # Version Control
 
 `Git` A distributed version control system widely used for tracking changes in source code during development. Platforms like GitHub, GitLab, and Bitbucket provide online repositories for hosting Git projects. [Link &rarr;](https://git-scm.com/downloads)
@@ -60,8 +61,9 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 `Unsplash` Unsplash is a photo discovery platform for free to use, high-definition photos. [Link &rarr;](https://unsplash.com/)
 
-# Popular technologies used in web development
+------------------------------------------------------------------
 
+# Popular technologies used in web development
 
 ### Nodejs used in the development 
 
@@ -75,17 +77,23 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 ### Postman used in the development 
 
-`HTTP response status codes` Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster..[Link &rarr;](https://www.postman.com/downloads/)
+`Postman` Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster..[Link &rarr;](https://www.postman.com/downloads/)
 
-### Express used in the development 
 
-`HTTP response status codes` HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:.[Link &rarr;](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 # AI tool used in the developments
 
 ### Opean AI chatGPT
 
 `chatGpt` ChatGPT can produce both useful and unusable code. For best results, provide clear and detailed prompts.. [Link &rarr;](https://chat.openai.com/)
+
+
+
+# Mostly used links to improve developments
+
+### HTTP response status codes 
+
+`HTTP response status codes` HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:.[Link &rarr;](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 
 
