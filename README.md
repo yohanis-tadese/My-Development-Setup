@@ -45,9 +45,17 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 `Diff decorations` set to `none`, remove decoration virtical line in vs code.
 
-# Color used in the development
+### Online tool used in the developments
+
+# Color picker used in the development
 
 `Color Zilla` With ColorZilla you can get a color reading from any point in your browser. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+
+
+# Image selector used in the development
+
+`Unsplash` Unsplash is a photo discovery platform for free to use, high-definition photos. [Link &rarr;](https://unsplash.com/)
 
 # Nodejs used in the development 
 
